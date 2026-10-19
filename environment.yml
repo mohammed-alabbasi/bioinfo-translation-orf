@@ -1,0 +1,12 @@
+name: bioinfo-skill3-translation-orf
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - biopython=1.83
+  - r-base=4.3
+  - r-ggplot2=3.5.0
+  - r-irkernel
+  - jupyter
+  - ipykernel
