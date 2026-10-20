@@ -1,0 +1,5 @@
+CDS length: 3048 bp
+Protein length: 1015 aa (stop codon excluded)
+First 30 residues: MLKKPSGREADMPVDFLTTEQVESYGRFTG
+Last 10 residues:  KEASEAENVA
+Exact sequence match: True

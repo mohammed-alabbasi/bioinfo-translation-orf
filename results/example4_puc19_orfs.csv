@@ -1,0 +1,5 @@
+strand,frame,nt_start,nt_end,aa_length
+reverse,3,200,1061,286
+forward,3,185,542,118
+reverse,1,2217,2541,107
+forward,1,1755,2022,88

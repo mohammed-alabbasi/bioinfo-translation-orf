@@ -1,0 +1,8 @@
+CDS length: 1542 bp (514 codons)
+Standard-code translation before first stop: 5 aa
+Mitochondrial-code translation before first stop: 513 aa
+Occurrences of the four reassigned codons in this CDS:
+  AGA: 1 occurrence(s) — standard=R, mitochondrial=Stop
+  AGG: 0 occurrence(s) — standard=R, mitochondrial=Stop
+  ATA: 25 occurrence(s) — standard=I, mitochondrial=M
+  TGA: 16 occurrence(s) — standard=Stop, mitochondrial=W
